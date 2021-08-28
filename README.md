@@ -15,8 +15,8 @@ Most of the applications which are written GO are east to scale, supports distri
 
 ### Best Resources to learn Go
 
--[Microsoft GO Free Course](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/)
--[Hitesh Youtube Playlist](https://www.youtube.com/watch?v=X4q1OM0voO0&list=PLRAV69dS1uWSR89FRQGZ6q9BR2b44Tr9N)
+- [Microsoft GO Free Course](https://docs.microsoft.com/en-us/learn/paths/go-first-steps/)
+- [Hitesh Youtube Playlist](https://www.youtube.com/watch?v=X4q1OM0voO0&list=PLRAV69dS1uWSR89FRQGZ6q9BR2b44Tr9N)
 
 
 Here I provided the code samples for getting started with GO programming language.
