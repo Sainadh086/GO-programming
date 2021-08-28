@@ -21,7 +21,7 @@ func main() {
 	sam.Name = "sam"
 	sam.Email = "sam@go.com"
 	sam.age = 22
-	fmt.Println("%+v\n", sam)
+	fmt.Printf("%+v\n", sam)
 	// as we used new to create the user DS, it only refer to the data
 
 }

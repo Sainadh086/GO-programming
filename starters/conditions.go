@@ -20,8 +20,7 @@ func main() {
 	reader := bufio.NewReader(os.Stdin)
 	name, _ = reader.ReadString('\n')
 
-	fmt.Println("Please Learn more about #RedHat OpenShift Service on AWS (known as ROSA), a new managed service available via the Amazon Web Services (AWS) Console, it makes it easier for customers to build, scale, and manage containerised applications on AWScloud:
-	rate our Dosa center between 1 to 5")
+	fmt.Println("Please rate our Dosa center between 1 to 5")
 	reader = bufio.NewReader(os.Stdin)
 	rating, _ = reader.ReadString('\n')
 	ratingNum, _ := strconv.Atoi(strings.TrimSpace(rating))

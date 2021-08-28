@@ -1,7 +1,8 @@
 package main
+
 import "fmt"
 
-func main(){
+func main() {
 	//Print statement
 	fmt.Println("Defining the variables")
 	// writing  variables in different formats
@@ -11,7 +12,7 @@ func main(){
 	friend = "Golang"
 	fmt.Println(friend)
 
-	// this special case and we no need to give datatype
+	// this is special case and we no need to give datatype
 	sister := "Kavya"
 	fmt.Println(sister)
 
@@ -22,5 +23,5 @@ func main(){
 	fmt.Println(year)
 
 	//printing the value and datatype
-	fmt.Printf("%v, %T",age,age)
+	fmt.Printf("%v, %T", age, age)
 }
